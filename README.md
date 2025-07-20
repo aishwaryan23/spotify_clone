@@ -36,4 +36,31 @@ This project is built using front-end technologies only, making it a great examp
 - CSS3 
 - JavaScript
 
+## 🚀 Getting Started
+
+Follow these simple steps to run the project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/spotify-clone.git
+
+### 2. Navigate to the project directory
+
+cd spotify-clone
+
+### 3. Open index.html in your browser:
+
+You can do this by simply double-clicking the index.html file in your file explorer
+
+## 📂 Folder Structure
+
+spotify-clone/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    ├── images/
+    └── music/
 

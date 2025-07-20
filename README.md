@@ -55,7 +55,7 @@ cd spotify-clone
 You can do this by simply double-clicking the index.html file in your file explorer
 
 ## 📂 Folder Structure
-
+```bash
 spotify-clone/
 │
 ├── index.html
@@ -64,4 +64,4 @@ spotify-clone/
 └── assets/
     ├── images/
     └── music/
-
+```

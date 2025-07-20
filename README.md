@@ -44,11 +44,12 @@ Follow these simple steps to run the project locally:
 
 ```bash
 git clone https://github.com/yourusername/spotify-clone.git
+```
 
 ### 2. Navigate to the project directory
-
+```bash
 cd spotify-clone
-
+```
 ### 3. Open index.html in your browser:
 
 You can do this by simply double-clicking the index.html file in your file explorer

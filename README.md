@@ -2,7 +2,13 @@
 
 This project is a fully functional frontend clone of the Spotify Web Player, crafted using HTML, CSS, and JavaScript — no frameworks or backend required. It closely replicates the sleek design and interactive experience of Spotify, offering key features such as music playback, playlist display, and custom player controls.
 
-<img width="1919" height="930" alt="Screenshot 2025-07-20 194339" src="https://github.com/user-attachments/assets/47ca6683-cb18-41b6-b45f-f95432fd5ec7" />
+## Preview
+
+<img width="1919" height="931" alt="Screenshot 2025-07-25 191525" src="https://github.com/user-attachments/assets/dbcb458b-b2da-4fe9-a22f-8d771789f14a" />
+
+<img width="359" height="784" alt="image" src="https://github.com/user-attachments/assets/644733af-1d97-434a-9a81-d75d65ee0cb7" />
+
+
 
 
 
